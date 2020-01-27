@@ -22,7 +22,7 @@ $ ./main # Randam gaussian histogram & HelloWorld!!
 ```
 
 ---
-##
+## Specification
 
 ### source
 実行するファイル
