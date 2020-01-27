@@ -3,7 +3,7 @@
 ---
 以下はcmakeでROOTをインストールしていることを前提とする。
 
-[ROOT build参考] : https://github.com/shimada-takuya/Liniux_env
+[ROOT build参考](https://github.com/shimada-takuya/Liniux_env)
 
 ---
 ## How to
